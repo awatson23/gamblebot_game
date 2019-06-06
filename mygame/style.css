@@ -1,0 +1,241 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#submit {
+    font-family: 'Press Start 2P', cursive;
+    padding: 10px;
+    background-color: black;
+    color: #39ff14;
+}
+
+#user form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#user h1 {
+    color: black;
+    text-shadow: 4px 4px #39ff14;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#user h2 {
+    font-size: 20px;
+}
+
+#name {
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    box-shadow: 4px 4px black;
+}
+
+#submit {
+    margin-top: 20px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+#regTitle {
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+    text-shadow: 4px 4px #39ff14;
+}
+
+#userboard {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+#userboard {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    justify-content: space-between;
+    color: #39ff14;
+}
+
+.user {
+    padding: 30px;
+}
+
+.score {
+    padding: 30px;
+}
+
+
+#generator {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 500px;
+    background-color: #39ff14;
+    padding: 15px;
+    box-shadow: black 7px 7px;
+}
+
+#generator h2 {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.guessInput form {
+    display: flex;
+    flex-direction: column;
+}
+
+.guessInput {
+    width: 500px;
+    background-color: #39ff14;
+    padding: 15px;
+    margin: 0 auto;
+    box-shadow: black 7px 7px;
+    margin-top: 45px;
+    margin-right: 20px;
+}
+
+#entry {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: #39ff14;
+    background-color: black;
+}
+
+#guessed {
+    width: 125px;
+    margin: 0 auto;
+    padding: 15px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    background-color: black;
+    color: #39ff14;
+}
+
+
+.startDiv {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#start {
+    background-color: black;
+    color: #39ff14;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 15px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+
+#generator h2 {
+    color: black;
+    font-size: 40px;
+}
+
+#randomINT {
+    font-size: 40px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#result {
+    color: black;
+    text-shadow: 4px 4px #39ff14;
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.instruct {
+    font-size: 35px;
+    text-align: center;
+    margin: 0 auto;
+    color: black;
+    text-shadow: 4px 4px #39ff14;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 30px;
+}
+
+.back {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    background-color: black; 
+    color: #39ff14;
+    box-shadow: 4px 4px #5e5e5e;
+    text-decoration: none;
+    padding: 10px;
+  
+}
+
+#backBut {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+.player {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+}
+
+.alignGame {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#scoreBoard {
+    width: 600px;
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+    color: #39ff14;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 35px;
+    box-shadow: 4px 4px #39ff14;
+}
+
+#scoreBoard h2 {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 25px;
+    padding: 20px;
+}
+
+
+
+
+
+
+
